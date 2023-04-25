@@ -6,7 +6,7 @@ This is a sample project created for the internship position at Mobilicis India 
 
 ## Table of Contents
 
-- [Prerequisites](##prerequisites)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#apiendpoints)
